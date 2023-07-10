@@ -1,0 +1,1 @@
+ RemoveFromLoop(starting_node_of_loop);
