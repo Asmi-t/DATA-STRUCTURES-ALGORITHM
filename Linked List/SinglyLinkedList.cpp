@@ -207,7 +207,7 @@ int main()
    cout <<endl;
 
    node* dta = tail->next;
-  tail->next = head;
+   tail->next = head;
    cout <<tail->next<<endl;
    cout <<dta<<endl;
 
